@@ -30,4 +30,16 @@ export default StyleSheet.create({
     fontSize: 16,
     letterSpacing: 0.7,
   },
+  button: {
+    backgroundColor: "black",
+    marginTop: "auto",
+    padding: 20,
+    alignItems: "center",
+    margin: 10,
+  },
+  buttonText: {
+    fontWeight: "bold",
+    color: "white",
+    fontSize: 20,
+  },
 });
